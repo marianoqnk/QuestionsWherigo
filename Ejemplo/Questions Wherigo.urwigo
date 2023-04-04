@@ -40,7 +40,7 @@
 <System:DateTime>08/23/2017 20:35:08</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>04/03/2023 12:34:45</System:DateTime>
+<System:DateTime>04/03/2023 14:38:03</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -81,7 +81,7 @@
 <System:String></System:String>
 </Identifier>
 <Name>
-<System:String>F003</System:String>
+<System:String>003</System:String>
 </Name>
 <Description>
 <System:String xsi:nil="true" />
@@ -113,7 +113,7 @@
 <System:String xsi:nil="true" />
 </Identifier>
 <Name>
-<System:String>F002</System:String>
+<System:String>002</System:String>
 </Name>
 <Description>
 <System:String xsi:nil="true" />
@@ -130,7 +130,7 @@
 <System:String xsi:nil="true" />
 </Identifier>
 <Filename>
-<System:String>002.png</System:String>
+<System:String>002.jpg</System:String>
 </Filename>
 <Directives>
 <Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
@@ -145,7 +145,7 @@
 <System:String xsi:nil="true" />
 </Identifier>
 <Name>
-<System:String>F004</System:String>
+<System:String>004</System:String>
 </Name>
 <Description>
 <System:String xsi:nil="true" />
@@ -236,7 +236,7 @@
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key2">
+<Wherigo:WigoMedia key="key4">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -259,6 +259,486 @@
 </Identifier>
 <Filename>
 <System:String>TicTac.mp3</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>001</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>001.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>005</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>005.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>006</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>006.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>008</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>008.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>009</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>009.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>010</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>010.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>011</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>011.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>012</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>012.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>014</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>014.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>015</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>015.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>016</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>016.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>017</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>017.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>018</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>018.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>019</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>019.jpg</System:String>
+</Filename>
+<Directives>
+<Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
+</Directives>
+</Wherigo:WigoResource>
+</Resources>
+</Wherigo:WigoMedia>
+</Media>
+<Media>
+<Wherigo:WigoMedia>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>020</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<AltText>
+<System:String xsi:nil="true" />
+</AltText>
+<Type>
+<Wherigo:WigoMediaType>Image</Wherigo:WigoMediaType>
+</Type>
+<Resources>
+<Wherigo:WigoResource>
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Filename>
+<System:String>020.jpg</System:String>
 </Filename>
 <Directives>
 <Wherigo:WigoResourceDirectives>None</Wherigo:WigoResourceDirectives>
@@ -365,7 +845,7 @@
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoFunction key="key4">
+<Wherigo:WigoFunction key="key3">
 <Identifier>
 <System:String>Siguiente</System:String>
 </Identifier>
@@ -381,21 +861,11 @@
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Actions>
-<Actions:PlayAudioAction>
+<Actions:StopAudioAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
-<SoundContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoMedia xsi:nil="true" ref="key2" />
-</Target>
-</Actions:ObjectExpressionAction>
-</SoundContent>
-</Actions:PlayAudioAction>
+</Actions:StopAudioAction>
 </Actions>
 <Actions>
 <Actions:TimerStartAction>
@@ -408,7 +878,7 @@
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoTimer key="key3">
+<Wherigo:WigoTimer key="key2">
 <Identifier>
 <System:String>TiempoRespuesta</System:String>
 </Identifier>
@@ -430,7 +900,7 @@
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoTimer xsi:nil="true" ref="key3" />
+<Wherigo:WigoTimer xsi:nil="true" ref="key2" />
 </Owner>
 </Actions:EventAction>
 </StartAction>
@@ -440,7 +910,7 @@
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoTimer xsi:nil="true" ref="key3" />
+<Wherigo:WigoTimer xsi:nil="true" ref="key2" />
 </Owner>
 </Actions:EventAction>
 </StopAction>
@@ -460,14 +930,14 @@
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoFunction xsi:nil="true" ref="key4" />
+<Wherigo:WigoFunction xsi:nil="true" ref="key3" />
 </Target>
 </Actions:ObjectExpressionAction>
 </FunctionContent>
 </Actions:FunctionCallAction>
 </Actions>
 <Owner>
-<Wherigo:WigoTimer xsi:nil="true" ref="key3" />
+<Wherigo:WigoTimer xsi:nil="true" ref="key2" />
 </Owner>
 </Actions:EventAction>
 </TickAction>
@@ -476,6 +946,23 @@
 </Actions:ObjectExpressionAction>
 </TimerContent>
 </Actions:TimerStartAction>
+</Actions>
+<Actions>
+<Actions:PlayAudioAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<SoundContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoMedia xsi:nil="true" ref="key4" />
+</Target>
+</Actions:ObjectExpressionAction>
+</SoundContent>
+</Actions:PlayAudioAction>
 </Actions>
 <Actions>
 <Actions:IfElseAction>
@@ -941,7 +1428,7 @@ _Urwigo.RunDialogs(function()
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoFunction xsi:nil="true" ref="key4" />
+<Wherigo:WigoFunction xsi:nil="true" ref="key3" />
 </Owner>
 </Actions:EventAction>
 </CallAction>
@@ -1064,6 +1551,13 @@ estas</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Actions>
+<Actions:StopAudioAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+</Actions:StopAudioAction>
+</Actions>
+<Actions>
 <Actions:IfElseAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
@@ -1087,7 +1581,7 @@ estas</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoTimer xsi:nil="true" ref="key3" />
+<Wherigo:WigoTimer xsi:nil="true" ref="key2" />
 </Target>
 <Property>
 <System:String>Remaining</System:String>
@@ -1100,7 +1594,7 @@ estas</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoTimer xsi:nil="true" ref="key3" />
+<Wherigo:WigoTimer xsi:nil="true" ref="key2" />
 </Target>
 <Property>
 <System:String>Duration</System:String>
@@ -1130,7 +1624,7 @@ estas</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoTimer xsi:nil="true" ref="key3" />
+<Wherigo:WigoTimer xsi:nil="true" ref="key2" />
 </Target>
 </Actions:ObjectExpressionAction>
 </TimerContent>
@@ -1318,7 +1812,7 @@ Wherigo.LogMessage("P:"..i)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoFunction xsi:nil="true" ref="key4" />
+<Wherigo:WigoFunction xsi:nil="true" ref="key3" />
 </Target>
 </Actions:ObjectExpressionAction>
 </FunctionContent>
@@ -1497,7 +1991,7 @@ Wherigo.LogMessage("P:"..i)</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoFunction xsi:nil="true" ref="key4" />
+<Wherigo:WigoFunction xsi:nil="true" ref="key3" />
 </Target>
 </Actions:ObjectExpressionAction>
 </FunctionContent>
@@ -1597,13 +2091,13 @@ Wherigo.LogMessage("P:"..i)</System:String>
 </Wherigo:WigoInput>
 </Inputs>
 <Timers>
-<Wherigo:WigoTimer xsi:nil="true" ref="key3" />
+<Wherigo:WigoTimer xsi:nil="true" ref="key2" />
 </Timers>
 <Functions>
 <Wherigo:WigoFunction xsi:nil="true" ref="key7" />
 </Functions>
 <Functions>
-<Wherigo:WigoFunction xsi:nil="true" ref="key4" />
+<Wherigo:WigoFunction xsi:nil="true" ref="key3" />
 </Functions>
 <Player>
 <Wherigo:WigoPlayer xsi:nil="true" ref="key1" />
@@ -1764,7 +2258,7 @@ for _ in pairs(preguntas) do num_preg = num_preg+ 1 end
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoFunction xsi:nil="true" ref="key4" />
+<Wherigo:WigoFunction xsi:nil="true" ref="key3" />
 </Target>
 </Actions:ObjectExpressionAction>
 </FunctionContent>
