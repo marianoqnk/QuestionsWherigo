@@ -21,8 +21,8 @@ Antes de empezar tenemos que:
 
 	![Descargar](Imagenes/Descargar%20tsv.png)	
 
-4. Hacemos una copia de la carpeta Templates con todos sus ficheros en nuestro ordenador.
-	- Ponemos el fichero que nos hemos descargado en la carpeta.					
+4. [Descargamos la carpeta Templates](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/marianoqnk/QuestionsWherigo/tree/main/Templates) con todos sus ficheros en nuestro ordenador.
+	- Descomprimimos en nuestro directorio de trabajo					
 	- Renombramos el fichero descargado a "Wpreguntas.lua".
 
 5. Imagenes: tienen que estar todas en la misma carpeta que el cartucho .
