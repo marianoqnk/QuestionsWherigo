@@ -1,0 +1,4 @@
+import requests
+r = requests.put ('https://citaprevia.getafe.es/oabs/chooseSlot',data={"__scopeId": "data-v-74ec04be"})
+print(r.url)
+print(r.text)
